@@ -44,7 +44,7 @@ class IntroPage extends StatelessWidget {
                   //maxHeight: 0.3.sh,
                   maxWidth: 0.9.sw,
                 ),
-                child: Image.asset('images/DeathsRamble.png'),
+                child: Image.asset('assets/images/DeathsRamble.png'),
               ),
               // title
               SizedBox(height: 5.h),

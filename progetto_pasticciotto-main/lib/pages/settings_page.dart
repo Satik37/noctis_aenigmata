@@ -202,7 +202,7 @@ class _SettingsState extends State<Settings>
                 // icon
                 Padding(
                   padding: EdgeInsets.all(5.w),
-                  child: Image.asset('images/knife.png'),
+                  child: Image.asset('assets/images/knife.png'),
                 ),
                 SizedBox(
                   height: 25.h,

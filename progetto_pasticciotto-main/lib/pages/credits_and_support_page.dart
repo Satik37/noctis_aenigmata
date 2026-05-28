@@ -219,7 +219,7 @@ class _CreditsAndSupportState extends State<CreditsAndSupport>
                         Colors.red.withValues(alpha: 0.7),
                         BlendMode.srcATop,
                       ),
-                      child: Image.asset('images/writerWoman.png'),
+                      child: Image.asset('assets/images/writerWoman.png'),
                     ),
                   ),
                 ),
@@ -243,7 +243,7 @@ class _CreditsAndSupportState extends State<CreditsAndSupport>
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(20.r),
                     image: const DecorationImage(
-                      image: AssetImage('images/theDeathOfOenone.png'),
+                      image: AssetImage('assets/images/theDeathOfOenone.png'),
                       fit: BoxFit.cover,
                     ),
                   ),
@@ -316,7 +316,7 @@ class _CreditsAndSupportState extends State<CreditsAndSupport>
                       // image
                       // Expanded(
                       //   child: Image.asset(
-                      //     'images/inkPen.png',
+                      //     'assets/images/inkPen.png',
                       //     //  height: 100,
                       //     fit: BoxFit.cover,
                       //   ),

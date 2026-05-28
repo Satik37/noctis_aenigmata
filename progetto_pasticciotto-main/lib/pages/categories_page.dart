@@ -74,9 +74,9 @@ class _CategoriesPageState extends State<CategoriesPage>
 // Create a list of categories
   List<Genre> genres = [
     // Logic and Deduction
-    Genre(name: 'Logic and Deduction', imagePath: 'images/manAndSkull.png'),
+    Genre(name: 'Logic and Deduction', imagePath: 'assets/images/manAndSkull.png'),
     // Historical Fiction
-    Genre(name: 'Historical Fiction', imagePath: 'images/medievalWriting.png'),
+    Genre(name: 'Historical Fiction', imagePath: 'assets/images/medievalWriting.png'),
     // Science
     // Fantasy
     // Mystery
@@ -274,7 +274,7 @@ class _CategoriesPageState extends State<CategoriesPage>
                 // image
                 Expanded(
                   child: Image.asset(
-                    'images/skull18.png',
+                    'assets/images/skull18.png',
                     height: 80.h,
                   ),
                 ),
@@ -326,7 +326,7 @@ class _CategoriesPageState extends State<CategoriesPage>
                 // image
                 Expanded(
                   child: Image.asset(
-                    'images/ancientGreekBoat.png',
+                    'assets/images/ancientGreekBoat.png',
                     fit: BoxFit.cover,
                   ),
                 ),
@@ -401,7 +401,7 @@ class _CategoriesPageState extends State<CategoriesPage>
                 // image
                 Expanded(
                   child: Image.asset(
-                    'images/skull18.png',
+                    'assets/images/skull18.png',
                     height: 80.h,
                   ),
                 ),
@@ -456,7 +456,7 @@ class _CategoriesPageState extends State<CategoriesPage>
                 // image
                 Expanded(
                   child: Image.asset(
-                    'images/ancientGreekBoat.png',
+                    'assets/images/ancientGreekBoat.png',
                     fit: BoxFit.cover,
                   ),
                 ),

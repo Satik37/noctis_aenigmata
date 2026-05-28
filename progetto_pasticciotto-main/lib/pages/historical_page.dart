@@ -17,7 +17,7 @@ class _HistoricalPageState extends State<HistoricalPage>
   final List<Map<String, String>> historicalPuzzles = [
     //  1
     {
-      'path': 'images/danzaDeLaMuerte10.png',
+      'path': 'assets/images/danzaDeLaMuerte10.png',
       'name': 'The Disappearing General',
       'description':
           'During the Roman Empire, General Marcus was sent to the northern territories and never returned. Years later, his diary was found, ending abruptly with the words, "I have found the truth." What happened to General Marcus?LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM ',
@@ -26,7 +26,7 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  2
     {
-      'path': 'images/danceOfDeath.png',
+      'path': 'assets/images/danceOfDeath.png',
       'name': 'The Pharaoh\'s Secret',
       'description':
           'An ancient Egyptian pharaoh was buried with a secret that was supposed to bring prosperity to the kingdom. However, the kingdom fell into ruin after his death. What was the secret?',
@@ -35,7 +35,7 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  3
     {
-      'path': 'images/danzaDeLaMuerte8.png',
+      'path': 'assets/images/danzaDeLaMuerte8.png',
       'name': 'The Vanished Viking',
       'description':
           'A Viking chief led an expedition to a new land but vanished without a trace. Centuries later, an artifact bearing his name is found in a distant desert. How did it get there?',
@@ -44,7 +44,7 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  4
     {
-      'path': 'images/danzaDeLaMuerte6.png',
+      'path': 'assets/images/danzaDeLaMuerte6.png',
       'name': 'The Hidden Treasure',
       'description':
           'A pirate buried his treasure on an island and left a map with cryptic clues. Despite many attempts, it was never found. What was the key to the map?',
@@ -53,7 +53,7 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  5
     {
-      'path': 'images/danzaDeLaMuerte5.png',
+      'path': 'assets/images/danzaDeLaMuerte5.png',
       'name': 'The Ghost Ship',
       'description':
           'In the 17th century, a ship set sail with a precious cargo and vanished. It reappeared decades later, abandoned. What happened to the crew?',
@@ -62,7 +62,7 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  6
     {
-      'path': 'images/danzaDeLaMuerte4.png',
+      'path': 'assets/images/danzaDeLaMuerte4.png',
       'name': 'The Phantom Knight',
       'description':
           'During the Crusades, a knight known for his ruthless tactics disappeared. Years later, his armor was found buried beneath a church, untouched by time. The inscription read, "Condemned by the righteous." What happened to the knight?',
@@ -71,7 +71,7 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  7
     {
-      'path': 'images/danzaDeLaMuerte3.png',
+      'path': 'assets/images/danzaDeLaMuerte3.png',
       'name': 'The Missing Pharaoh',
       'description':
           'An Egyptian pharaoh vanished, leaving behind a cryptic message: "The sands reveal all at dusk." His body was never found, and his tomb lay empty. What does the message mean?',
@@ -80,7 +80,7 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  8
     {
-      'path': 'images/danzaDeLaMuerte.png',
+      'path': 'assets/images/danzaDeLaMuerte.png',
       'name': 'The Cursed Treasure',
       'description':
           'A pirate captain buried his treasure on a deserted island. His map, found years later, had the warning: "Greed leads to doom." Many sought the treasure but never returned. Why?',
@@ -89,13 +89,13 @@ class _HistoricalPageState extends State<HistoricalPage>
     },
     //  9
     {
-      'path': 'images/archangelMichael.png',
+      'path': 'assets/images/archangelMichael.png',
       'name': 'Historical puzzle 9',
       'description': 'This is the description of the puzzle 9',
       'answer': 'answer to the puzzle 9',
     },
 
-    //'images/danzaDeLaMuerte09.png',
+    //'assets/images/danzaDeLaMuerte09.png',
 
     // Add more image paths as needed
   ];
@@ -180,7 +180,7 @@ class _HistoricalPageState extends State<HistoricalPage>
               // ----- Add background image
               children: [
                 //   Image.asset(
-                //     'images/skull18.png',
+                //     'assets/images/skull18.png',
                 //     fit: BoxFit.cover,
                 //   ),
 
@@ -210,7 +210,7 @@ class _HistoricalPageState extends State<HistoricalPage>
                           ),
                           FlexibleSpaceBar(
                             background: Image.asset(
-                              'images/knightHorse.png',
+                              'assets/images/knightHorse.png',
                               fit: BoxFit.cover,
                             ),
                             title: Text(
