@@ -107,11 +107,32 @@ This makes the content layer future-proof and easy to extend without touching th
 
 > TODO: add 2–3 screenshots from a device or emulator once the UI is finalized.
 
-Suggested screenshots:
+Good screenshots:
 
-- Intro screen  
+- Main screen  
 - Logic & Deduction grid  
 - Puzzle detail + answer dialog  
+
+---
+
+## Screenshots
+> Names:
+- Velvet Ritual Stories
+- Ghostlight Puzzles
+- Theatre of the Damned
+- Unholy Enigma Rites
+- Altars of the Unseen
+- Omen of the Abyss
+- Litany of the Dead
+- Sigils of the Forgotten
+- Temple of Paradox
+- Enigmata Tenebrarum (Enigmas of the Darkness)
+- Noctis Aenigmata (Night's Enigmas)
+- Umbrae Mortis (Shadow of Death) *
+- Arcana Abyssi (Secrets of the Abyss) *
+- Mors Obscura (Death Obscure)
+- Nox Sacrilega (Sacrilegious Night)
+- Verba Damnatorum (Words of the Damned) *
 
 ---
 
