@@ -115,7 +115,7 @@ Good screenshots:
 
 ---
 
-## Screenshots
+## Names
 > Names:
 - Velvet Ritual Stories
 - Ghostlight Puzzles
