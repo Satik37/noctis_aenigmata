@@ -4,7 +4,7 @@ Progetto Pasticciotto is a small Flutter mobile game inspired by short horror st
 short, twisted situational puzzles designed to be played in a group.  
 One player reads the story, the others try to deduce what really happened by asking yes/no questions.
 
-> This project is part of my preparation for Vinted's Engineering Academy and showcases my Flutter, UI, and app-architecture skills.
+> This project is to showcases my Flutter, UI, and app-architecture skills.
 
 ---
 
