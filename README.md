@@ -13,6 +13,18 @@
                     ░                                                                                                                
 ```
 
+```
+    __                                    ___                                                   
+   /  -,              ,                  -   -_,                                       ,        
+  ||   )             ||   '             (  ~/||               '   _              _    ||    _   
+ ~||---)  /'\\  _-_ =||= \\  _-_,       (  / ||   _-_  \\/\\ \\  / \\ \\/\\/\\  < \, =||=  < \, 
+ ~||---, || || ||    ||  || ||_.         \/==||  || \\ || || || || || || || ||  /-||  ||   /-|| 
+ ~||  /  || || ||    ||  ||  ~ ||        /_ _||  ||/   || || || || || || || || (( ||  ||  (( || 
+  |, /   \\,/  \\,/  \\, \\ ,-_-        (  - \\, \\,/  \\ \\ \\ \\_-| \\ \\ \\  \/\\  \\,  \/\\ 
+-_-  --~                                                         /  \                           
+                                                                '----`                          
+```
+
 Noctis Aenigmata is a small Flutter mobile game inspired by dark situational puzzles and short horror stories.
 
 It started from a very personal idea: creating something I could actually play with my girlfriend, who loves writing and inventing stories. Because of that, the project became both a technical exercise and a small creative space built around a real person, not just around the idea of “making a portfolio project”.
